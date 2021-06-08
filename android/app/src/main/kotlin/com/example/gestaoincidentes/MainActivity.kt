@@ -1,4 +1,4 @@
-package com.example.gestaoincidentes
+package dev.placerda.una.gestaoincidentes
 
 import io.flutter.embedding.android.FlutterActivity
 
